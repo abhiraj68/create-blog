@@ -1,0 +1,23 @@
+#navbar{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: aqua;
+}
+
+a{
+    text-decoration: none;
+
+}
+form{
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    height:270px ;
+    margin: auto;
+    justify-content: space-around;
+
+
+}
+input{
+    height: 20px;
+}
